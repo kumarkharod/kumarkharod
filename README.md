@@ -4,7 +4,7 @@ Sports analytics student at [University] focused on turning messy sports data in
 
 🏀 Currently: [Project, internship, research, leadership role, or course]  
 📊 Focus Areas: [Player tracking | Performance modeling | Revenue analytics | Fan engagement | Betting markets | etc.]  
-📍 Based in: [City, State]  
+📍 Based in: Austin, Texas
 🎯 Career Goal: [Front office | Analytics | Product | Data Science | etc.]  
 🔗 LinkedIn: [URL]  
 📬 Email: [Optional]
