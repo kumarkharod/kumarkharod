@@ -1,4 +1,4 @@
-# Hey, I'm Kumar 👋
+# Hey, I'm Kumar Kharod👋
 
 Sports analytics student at [University] focused on turning messy sports data into decisions that actually matter.
 
