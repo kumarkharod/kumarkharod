@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Kumar 👋
 
 Sports analytics student at [University] focused on turning messy sports data into decisions that actually matter.
 
